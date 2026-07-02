@@ -1,7 +1,7 @@
 {
   "java": {
     "client": {
-      "version": "11.0.27_6",
+      "version": "11.0.31_11",
       "edition": "azul"
     },
     "process-engine": {
